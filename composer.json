@@ -62,7 +62,8 @@
     "autoload": {
         "psr-4": {
             "Sonata\\Form\\": "src/",
-            "Sonata\\Form\\Bridge\\Symfony\\": "src/Bridge/Symfony/"
+            "Sonata\\Form\\Bridge\\Symfony\\": "src/Bridge/Symfony/",
+            "Sonata\\Form\\Bridge\\Symfony\\SonataFormBundle": "src/Bridge/Symfony/SonataFormBundle.php"
         }
     },
     "autoload-dev": {
